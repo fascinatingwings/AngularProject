@@ -1,0 +1,32 @@
+{
+    "tasks": [
+        {
+            "taskId": 0,
+            "title": "Sweep",
+            "description": "Sweep Entire House",
+            "time to complete": 18,
+            "necessary items": "Broom & Dustpan"
+        },
+        {
+            "taskId": 1,
+            "title": "Dishes",
+            "description": "Clean and dry dishes",
+            "time to complete": 45,
+            "necessary items": "dish soap, drying towel, sponge, hot water"
+        },
+        {
+            "taskId": 2,
+            "title": "Reading for Coding",
+            "description": "Read Coding Lesson",
+            "time to complete": 180,
+            "necessary items": "laptop, notepad, pen, Exeter website"
+        },
+        {
+            "taskId": 3,
+            "title": "HandsOn Assignment",
+            "description": "work through assignment, turn in on time",
+            "time to complete": 120,
+            "necessary items": "laptop, notes(notepad), Visual Studio Code, google"
+        }
+    ]
+}
